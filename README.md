@@ -3,8 +3,11 @@ A todo list application developed using swift4 + xcode9.4
 
 Feature:
 
-  1 Using TabBar and NavigationBar to organize the main interface
+  1 Using TabBar and NavigationBar to organize the user interface
   
-  2 Define customerized table cell
+  2 Using NSKeyedArchiver and NSKeyedUnarchiver to persist data
   
-  3 Support search function
+  3 Define customerized table cell using Xib files
+  
+  4 Support search function
+  
